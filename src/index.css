@@ -10,6 +10,11 @@
   font-family: 'Poppins', sans-serif;
 }
 
+html, body {
+  height: 100%; /* Asegúrate de que el body y html ocupen el 100% de la altura */
+  margin: 0; /* Quita los márgenes por defecto */
+}
+
 .sidebar{
   color: #fff;
 }
